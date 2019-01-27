@@ -8,6 +8,14 @@
 \description{
 Miscellaneous R Tools for easier coding.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/chrisvacc/R.Toolshed}
+  \item Report bugs at \url{https://github.com/chrisvacc/R.Toolshed/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Chris Vaccaro \email{chrisvacc@gmail.com}
 
